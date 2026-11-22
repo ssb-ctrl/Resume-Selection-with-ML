@@ -35,9 +35,6 @@ The model catches few flagged resumes (recall 0.25). The dataset is small and im
 - Try TF-IDF features and compare against Logistic Regression
 - Models trained on past labels can inherit their bias, so predictions should support human review, not replace it
 
-## Tech Stack
-Python, Pandas, NumPy, Matplotlib, Seaborn, NLTK, Gensim, WordCloud, Scikit-learn, Jupyter Notebook
-
 ## Project Structure
 ```
 ├── 004_Resume_Selection.ipynb   # analysis and model
