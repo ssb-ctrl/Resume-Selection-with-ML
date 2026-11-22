@@ -37,7 +37,7 @@ The model catches few flagged resumes (recall 0.25). The dataset is small and im
 
 ## Project Structure
 ```
-├── 004_Resume_Selection.ipynb   # analysis and model
+├── Resume_Selection.ipynb       # analysis and model
 ├── data/                        # dataset
 ├── LICENSE
 └── README.md
